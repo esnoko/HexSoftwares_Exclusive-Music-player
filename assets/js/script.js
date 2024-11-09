@@ -5,11 +5,11 @@ const musicData = [
   {
     backgroundImage: "./assets/images/fera.png",
     posterUrl: "./assets/images/fera.png",
-    title: "3 (Exclusive)",
+    title: "1 (Exclusive)",
     album: "Unreleased",
     year: 2024,
     artist: "Fera",
-    musicPath: "./assets/music/3.mp3",
+    musicPath: "./assets/music/1.mp3",
   },
 ];
 
