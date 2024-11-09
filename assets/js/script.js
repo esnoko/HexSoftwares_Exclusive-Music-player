@@ -56,6 +56,16 @@ const musicData = [
     artist: "Fera",
     musicPath: "./assets/music/6.mp3",
   },
+  {
+    backgroundImage: "./assets/images/fera.png",
+    posterUrl: "./assets/images/fera.png",
+    title: "7 (Exclusive)",
+    album: "Unreleased",
+    year: 2024,
+    artist: "Fera",
+    musicPath: "./assets/music/7.mp3",
+  },
+  
 ];
 
 // add event on multiple elements
