@@ -3,8 +3,8 @@
 // all music information
 const musicData = [
   {
-    backgroundImage: "./assets/images/fera.png",
-    posterUrl: "./assets/images/fera.png",
+    backgroundImage: "./assets/images/Fera.png",
+    posterUrl: "./assets/images/Fera.png",
     title: "1 (Exclusive)",
     album: "Unreleased",
     year: 2024,
@@ -12,8 +12,8 @@ const musicData = [
     musicPath: "./assets/music/1.mp3",
   },
   {
-    backgroundImage: "./assets/images/fera.png",
-    posterUrl: "./assets/images/fera.png",
+    backgroundImage: "./assets/images/Fera.png",
+    posterUrl: "./assets/images/Fera.png",
     title: "2 (Exclusive)",
     album: "Unreleased",
     year: 2024,
@@ -21,8 +21,8 @@ const musicData = [
     musicPath: "./assets/music/2.mp3",
   },
   {
-    backgroundImage: "./assets/images/fera.png",
-    posterUrl: "./assets/images/fera.png",
+    backgroundImage: "./assets/images/Fera.png",
+    posterUrl: "./assets/images/Fera.png",
     title: "3 (Exclusive)",
     album: "Unreleased",
     year: 2024,
@@ -30,8 +30,8 @@ const musicData = [
     musicPath: "./assets/music/3.mp3",
   },
   {
-    backgroundImage: "./assets/images/fera.png",
-    posterUrl: "./assets/images/fera.png",
+    backgroundImage: "./assets/images/Fera.png",
+    posterUrl: "./assets/images/Fera.png",
     title: "4 (Exclusive)",
     album: "Unreleased",
     year: 2024,
@@ -39,8 +39,8 @@ const musicData = [
     musicPath: "./assets/music/4.mp3",
   },
   {
-    backgroundImage: "./assets/images/fera.png",
-    posterUrl: "./assets/images/fera.png",
+    backgroundImage: "./assets/images/Fera.png",
+    posterUrl: "./assets/images/Fera.png",
     title: "5 (Exclusive)",
     album: "Unreleased",
     year: 2024,
@@ -48,8 +48,8 @@ const musicData = [
     musicPath: "./assets/music/5.mp3",
   },
   {
-    backgroundImage: "./assets/images/fera.png",
-    posterUrl: "./assets/images/fera.png",
+    backgroundImage: "./assets/images/Fera.png",
+    posterUrl: "./assets/images/Fera.png",
     title: "6 (Exclusive)",
     album: "Unreleased",
     year: 2024,
@@ -57,8 +57,8 @@ const musicData = [
     musicPath: "./assets/music/6.mp3",
   },
   {
-    backgroundImage: "./assets/images/fera.png",
-    posterUrl: "./assets/images/fera.png",
+    backgroundImage: "./assets/images/Fera.png",
+    posterUrl: "./assets/images/Fera.png",
     title: "7 (Exclusive)",
     album: "Unreleased",
     year: 2024,
