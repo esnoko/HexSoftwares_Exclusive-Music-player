@@ -358,4 +358,3 @@ const muteVolume = function(){
 // Add event listeners
 playerVolumeRange.addEventListener("input", updateVolume);
 playerVolumeBtn.addEventListener("click", muteVolume);
-
